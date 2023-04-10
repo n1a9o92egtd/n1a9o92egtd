@@ -6,7 +6,7 @@
 
 💞️ If you have any ideas or would like to have a technical discussion, please contact me ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1a9o92egtd&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1a9o92egtd&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1a9o92egtd&layout=compact)](https://github.com/n1a9o92egtd/github-readme-stats)
 
